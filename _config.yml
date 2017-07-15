@@ -10,8 +10,9 @@ favicon: /favicon.png
 logo: /logo.png
 
 # Theme background color for Android Chrome
+# Please remove the symbol '#'
 # e.g #4285f4
-themecolor: #42b983
+themecolor: 42b983
 
 # Friend links, only display when Links equals links
 links:
