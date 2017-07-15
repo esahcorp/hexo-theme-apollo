@@ -1,22 +1,34 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weibo: http://weibo.com/etiktsol
+    Friends: /links/
+    GitHub: https://github.com/esahcorp
     Rss: /atom.xml
 
 favicon: /favicon.png
-logo: /favicon.png
+logo: /logo.png
+
+# Theme background color for Android Chrome
+# e.g #4285f4
+themecolor: #42b983
+
+# Friend links, only display when Links equals links
+links:
+    Baidu: https://www.baidu.com
+    Google: https://www.google.com/ncr
 
 # Comment
 # e.g disqus: seansun
 disqus:
 duoshuo:
 cloudTie:
+livere: MTAyMC8yODYzOC81MjA5
+changyan:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-99016669-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2017

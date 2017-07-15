@@ -1,0 +1,15 @@
+extends partial/layout
+
+block container
+    ul.friends
+        each key, value in theme.links
+            li.link-item
+                a.friend-link(href=url_for(value) target="_blank")
+                    != key
+
+block pagination
+    include mixins/paginator
+    +home()
+
+block copyright
+    include partial/copyright
