@@ -1,17 +1,18 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/etiktsol
+    # Weibo: http://weibo.com/etiktsol
     Friends: /links/
     GitHub: https://github.com/esahcorp
     Rss: /atom.xml
 
+# 
 favicon: /favicon.png
 logo: /logo.png
 
 # Theme background color for Android Chrome
 # Please remove the symbol '#'
-# e.g #4285f4
+# e.g 4285f4
 themecolor: 42b983
 
 # Friend links, only display when Links equals links
@@ -24,6 +25,7 @@ links:
 disqus:
 duoshuo:
 cloudTie:
+# 来比力评论
 livere: MTAyMC8yODYzOC81MjA5
 changyan:
 

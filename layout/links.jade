@@ -1,7 +1,8 @@
-extends partial/layout
+extends post
 
 block container
-    ul.friends
+    h4 page.links
+    ul.friend-links
         each key, value in theme.links
             li.link-item
                 a.friend-link(href=url_for(value) target="_blank")

@@ -39,6 +39,18 @@ Hexo-theme-apollo 支持两种评论插件：Disqus 和 Duoshuo. 请在 `theme/_
 disqus: seansun
 ```
 
+由于不可预知的原因，增加了[来比力](https://livere.com/introduce)评论的支持，在 `livere` 中添加 id 即可。
+
+## theme-color for chrome
+
+在 `themecolor` 添加上喜欢的色值，在 Android 手机上的 Chrome 状态栏就可以看到这种效果：
+
+![theme-color](https://developers.google.com/web/updates/images/2014/11/theme-color-ss.png)
+
+## 友情链接
+
+
+
 ## 警告块
 
 使用警告块需要 `div` 标签和 `tip` 类名：
@@ -53,7 +65,7 @@ disqus: seansun
 
 ## 图例
 
-也许你已经在我的博客中看到了很多图例：流程图、草图……也许你想问它们是怎么生成的……实际上，它们是用 Microsoft Powerpoint 制作的，可能这个答案让你有点小失望，但是你还是应该尝试用它制作一下图例，你会发现它真的很适合！
+也许你已经在[我的博客](http://pinggod.com/)中看到了很多图例：流程图、草图……也许你想问它们是怎么生成的……实际上，它们是用 Microsoft Powerpoint 制作的，可能这个答案让你有点小失望，但是你还是应该尝试用它制作一下图例，你会发现它真的很适合！
 
 ## Last but not Least
 
